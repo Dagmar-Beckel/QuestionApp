@@ -11,7 +11,7 @@ struct ContentView: View {
     @State private var rootPresenting: Bool = false
     
     var body: some View {
-        NavigationView{
+        NavigationView{ 
             VStack(alignment: .center){
                 Text("Dagmar Quiz")
                     .font(.title)

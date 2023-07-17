@@ -33,7 +33,7 @@ struct PageFour: View {
                     .foregroundColor(.white)
                     .background(Color.gray)
                      .cornerRadius(10)
-                
+                 
                 //Coding
                 Button("Reading📚") {
                     emoji = "✅"

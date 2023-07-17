@@ -11,7 +11,7 @@ import SwiftUI
 struct PageThree: View {
     @State private var emoji = ""
     @Environment(\.rootPresentation) var rootPresentation: Binding<Bool>
-    
+     
     var body: some View {
         ZStack{ 
             //Back Button

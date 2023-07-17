@@ -43,7 +43,7 @@ struct PageTwo: View {
                 .foregroundColor(.white)
                 .background(Color("pinkColor"))
                 .cornerRadius(10)
-                 
+                  
                 //Green
                 Button("Green") {
                     emoji = "❌"
