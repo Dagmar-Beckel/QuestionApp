@@ -32,7 +32,7 @@ struct PageFour: View {
                     .padding(7)
                     .foregroundColor(.white)
                     .background(Color.gray)
-                    .cornerRadius(10)
+                     .cornerRadius(10)
                 
                 //Coding
                 Button("Reading📚") {
